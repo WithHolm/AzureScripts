@@ -1,2 +1,1 @@
-# AzureScripts
-Different scripts for azure
+# ModulesInAzureAutomation
